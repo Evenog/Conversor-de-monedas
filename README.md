@@ -1,4 +1,4 @@
-<img  alt="exchangeimg" width="1000px" height="500px" align="center" src="recursos/images/alura_challenge.png" >
+<img  alt="exchangeimg" width="800px" height="400px" align="center" src="recursos/images/alura_challenge.png" >
 
 ## Conversor de monedas
 
